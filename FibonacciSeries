@@ -1,5 +1,5 @@
 //Fibonacci series in C++
-//Prints the Fibonacci series to a given number.
+//Prints the Fibonacci series up to a given number.
 
 #include <iostream>
 using namespace std;
